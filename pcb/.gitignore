@@ -5,3 +5,5 @@
 _autosave*
 pcb-cache.lib
 fp-info-cache
+output
+*.net
