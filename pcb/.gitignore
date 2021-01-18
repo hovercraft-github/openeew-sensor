@@ -5,3 +5,6 @@
 _autosave*
 pcb-cache.lib
 fp-info-cache
+output
+gerber
+pcb-backups
